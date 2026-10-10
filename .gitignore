@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# env
+.env
+.env.*
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
